@@ -1,4 +1,3 @@
-wp-plugin-show-ids-admin
-========================
+##### wp-plugin-show-ids-admin
 
-Shows row IDs in admin pages of WordPress
+> Shows row IDs in admin pages of WordPress
