@@ -1,12 +1,13 @@
-/*
-Plugin Name: TCR Show IDs
-Description: Shows the ID of Posts, Pages, Media, Links, Categories, Tags and Users in the admin tables for easy access. Very lightweight.
-Version: 2.0.0
-Plugin URI: http://thecellarroom.net
-Author: The Cellar Room Limited
-Author URI: http://www.thecellarroom.net
-Copyright (c) 2013 The Cellar Room Limited
-*/
+<?php
+	/*
+	Plugin Name: TCR Show IDs
+	Description: Shows the ID of Posts, Pages, Media, Links, Categories, Tags and Users in the admin tables for easy access. Very lightweight.
+	Version: 2.0.0
+	Plugin URI: http://thecellarroom.uk
+	Author: The Cellar Room Limited
+	Author URI: http://www.thecellarroom.uk
+	Copyright (c) 2013 The Cellar Room Limited
+	*/
 
 // Prepend the new column to the columns array
 function TCR_sid_column($cols) {
